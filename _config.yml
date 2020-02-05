@@ -1,2 +1,6 @@
 theme: jekyll-theme-slate
 title: Deep Dive Data Science Bootcamp Syllabus
+
+layout: page
+title: "Bootcamp Prework"
+permalink: /prework/
