@@ -6,6 +6,10 @@
 - Graduation & project demos: 1 May, 2020, 12:00 noon–3:00 PM
 - Holidays: 
 
+A course calendar will be available on the Deep Dive Coding Data Science Bootcamp pre-work & general information site. All quizzes, exams, project due dates, and other important bootcamp events are shown in the course calendar. We’ll make multiple announcements (in class, on Slack, or here in the web site) leading up to each due date; however, it is ultimately each student’s responsibility to review the calendar on a regular basis, and to complete their exams and projects on-time.
+
+During the course, some event dates and due dates may need to be modified due to unforeseen conflicts, cancellations, etc. Any such changes will be announced in advance, and reflected in changes to the course calendar.
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/ddc-datascience/homepage/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
