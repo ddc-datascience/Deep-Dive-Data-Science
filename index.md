@@ -1,9 +1,13 @@
 ## Cohort 1 dates and times
 
-- Orientation: 21 February, 2020, 12:00 noon–3:00 PM
-- Instruction: 24 February–30 April, 2020, Monday–Thursday 8:00 AM–5:00 PM, Friday 8:00 AM–3:00 PM
-- Capstone project presentations: 1 May, 2020, 8:00 AM–12:00 noon
-- Graduation & project demos: 1 May, 2020, 12:00 noon–3:00 PM
+Class Name | Deep Dive Data Science
+:------------ | :-------------
+**Class Location** | CNM STEMulus Center<br>20 1st Plaza Center NW<br>Albuquerque, NM 87102
+**Orientation** | 21 February, 2020, 12:00 noon–3:00 PM
+**Instruction** | 24 February–30 April, 2020, 
+**Class Days & Times** | Monday - Thursday: 08:00 — 17:00<br>Friday: 08:00 — 15:00
+**Capstone project presentations** | Friday 1 May, 2020, 8:00 AM–12:00 noon
+**Graduation & project demos** | Friday 1 May, 2020, 12:00 noon–3:00 PM
 
 A course calendar will be available on the Deep Dive Coding Data Science Bootcamp pre-work & general information site before the bootcamp begins. All quizzes, exams, project due dates, and other important bootcamp events are shown in the course calendar. We’ll make multiple announcements (in class, on Slack, or here in the web site) leading up to each due date; however, it is ultimately each student’s responsibility to review the calendar on a regular basis, and to complete their exams and projects on-time.
 
@@ -15,6 +19,11 @@ The Deep Dive Coding Data Science Bootcamp is a 10-week long, intensive, immersi
 
 Students will become fluent in the data science process and create a project portfolio to present to employers. They will be exposed to professionals in the industry, to learn essential elements of the professionals’ success, and to build their own networks. Professional development, presentation, and image are also covered in preparation for entering the data science job market.
 
+There are two primary sets of deliverables:
+- Learning-based projects: Completion of five projects focused on different apllications of the data science tools taught in the bootcamp.
+- Capstone: Data science-based analysis of a relevant data set by teams of 3. This project will include a thorough apllication of the data science project using subjects taught during the bootcamp. Communication of the results through data visualization will be key.
+
+
 ## Instructors and coaches
 
 - Lead instructor: Cliff Lewis
@@ -24,11 +33,11 @@ Students will become fluent in the data science process and create a project por
 
 - Student Success Manager: Sue Andres
   - Slack: @Sue Andres
-  - E-mail: sandres1@cnm.edu
+  - E-mail: [sandres1@cnm.edu](mailto:sandres1@cnm.edu)
 
 - Employee Relations Manager: Esteban Martinez
   - Slack: @Esteban Martinez
-  - E-mail: emartinez394@cnm.edu
+  - E-mail: [emartinez394@cnm.edu](mailto:emartinez394@cnm.edu)
 
 Outside of the classroom, the primary means of contact between bootcamp participants and instructors, coaches, and other bootcamp staff is Slack. It is the participant’s responsibility to contact the instructors for any issue related to the course—e.g. grading, completion of assignments, attendance, conflicts. It is also the participant’s responsibility to check Slack on at least a daily basis (preferably more often), and to inform the instructors of any change in contact information or availability (e.g. email address change, inability to access the course content server, inability to access the Deep Dive Coding Slack workspace).
 
