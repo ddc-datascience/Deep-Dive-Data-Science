@@ -9,12 +9,6 @@ A course calendar will be available on the Deep Dive Coding Data Science Bootcam
 
 During the course, some event dates and due dates may need to be modified due to unforeseen conflicts, cancellations, etc. Any such changes will be announced in advance, and reflected in changes to the course calendar.
 
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/ddc-datascience/homepage/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
 ## Course Description
 
 The Deep Dive Coding Data Science Bootcamp is a 10-week long, intensive, immersive development course, covering a range of topics related to data science: fundamental data science concepts; Python and R programming; common data science tools (Jupyter, Guthub, Cloud), data collection and cleaning, exploratory data analysis, supervised and unsupervised learning methods, machine learning methods, artificail intelligence, natural language processing, and data visualization as students complete structured exercises, as well as individual and team projects.
@@ -22,19 +16,19 @@ The Deep Dive Coding Data Science Bootcamp is a 10-week long, intensive, immersi
 Students will become fluent in the data science process and create a project portfolio to present to employers. They will be exposed to professionals in the industry, to learn essential elements of the professionals’ success, and to build their own networks. Professional development, presentation, and image are also covered in preparation for entering the data science job market.
 
 ## Instructors and coaches
+
 - Lead instructor: Cliff Lewis
--- E-mail: clewis47@cnm.edu
+  - E-mail: [clewis47@cnm.edu](mailto:clewis47@cnm.edu)
 
 - Assistant instructor: TBD
 
 - Student Success Manager: Sue Andres
--- Slack: @Sue Andres
--- E-mail: [sandres1@cnm.edu](sandres1@cnm.edu)
+  - Slack: @Sue Andres
+  - E-mail: sandres1@cnm.edu
 
 - Employee Relations Manager: Esteban Martinez
--- Slack: @Esteban Martinez
--- E-mail: emartinez394@cnm.edu
-
+  - Slack: @Esteban Martinez
+  - E-mail: emartinez394@cnm.edu
 
 Outside of the classroom, the primary means of contact between bootcamp participants and instructors, coaches, and other bootcamp staff is Slack. It is the participant’s responsibility to contact the instructors for any issue related to the course—e.g. grading, completion of assignments, attendance, conflicts. It is also the participant’s responsibility to check Slack on at least a daily basis (preferably more often), and to inform the instructors of any change in contact information or availability (e.g. email address change, inability to access the course content server, inability to access the Deep Dive Coding Slack workspace).
 
@@ -44,6 +38,12 @@ Given the intensive face-to-face nature of the bootcamp, instructors will genera
 
 
 
+
+## Welcome to GitHub Pages
+
+You can use the [editor on GitHub](https://github.com/ddc-datascience/homepage/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+
+Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
 
