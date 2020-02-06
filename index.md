@@ -3,11 +3,11 @@
 Class Name | Deep Dive Data Science
 :------------ | :-------------
 **Class Location** | CNM STEMulus Center<br>20 1st Plaza Center NW<br>Albuquerque, NM 87102
-**Orientation** | 21 February, 2020, 12:00 noon–3:00 PM
-**Instruction** | 24 February–30 April, 2020, 
+**Orientation** | 21 February 2020, 12:00 noon–3:00 PM
+**Instruction** | 24 February–30 April 2020, 
 **Class Days & Times** | Monday - Thursday: 08:00—17:00<br>Friday: 08:00—15:00
-**Capstone project presentations** | Friday 1 May, 2020, 8:00 AM–12:00 noon
-**Graduation & project demos** | Friday 1 May, 2020, 12:00 noon–3:00 PM
+**Capstone project presentations** | Friday 1 May 2020, 8:00 AM–12:00 noon
+**Graduation & project demos** | Friday 1 May 2020, 12:00 noon–3:00 PM
 
 A course calendar will be available on the Deep Dive Coding Data Science Bootcamp pre-work & general information site before the bootcamp begins. All quizzes, exams, project due dates, and other important bootcamp events are shown in the course calendar. We’ll make multiple announcements (in class, on Slack, or here in the web site) leading up to each due date; however, it is ultimately each student’s responsibility to review the calendar on a regular basis, and to complete their exams and projects on-time.
 
