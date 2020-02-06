@@ -50,9 +50,10 @@ Given the intensive face-to-face nature of the bootcamp, instructors will genera
 The class will be evaluated in three categories:
 
 - Capstone: 55%
-- Class Projects: 45%
+- Class Projects: 35%
+- Assessments: 10%
 
-The capstone and class projects have their own rubrics and different milestones that are required to be achieved. The overall passing score in the class is ≥ 75.00%.
+The class projects occur throughout the bootcamp and will be scored immediately after the due date of the project. The assessments will occurs after the conclusion of each project. The overall passing score in the class is ≥ 75.00%.
 
 
 # Student Learning Outcomes
