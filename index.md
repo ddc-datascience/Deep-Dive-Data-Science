@@ -3,7 +3,7 @@
 Class Name | Deep Dive Data Science
 :------------ | :-------------
 **Class Location** | CNM STEMulus Center<br>20 1st Plaza Center NW<br>Albuquerque, NM 87102
-**Orientation** | 21 February 2020, 12:00 noon–3:00 PM
+**Orientation** | 21 February 2020, 11:00 AM-2:00 PM
 **Instruction** | 24 February–30 April 2020
 **Class Days & Times** | Monday - Thursday: 08:00—17:00<br>Friday: 08:00—15:00
 **Capstone project presentations** | Friday 1 May 2020, 8:00 AM–12:00 noon
